@@ -1,6 +1,6 @@
 # Asian Kitchen's Menu
 
-- [Siteye Gitmek İçin ıklayınız]()
+- [Siteye Gitmek İçin ıklayınız](https://ardaatprk.github.io/jsasianmenu/)
 
 Asian Kitchen's Menu, Asya mutfağından seçilmiş yemekleri görsel,
 açıklama ve fiyatlarıyla listeleyen basit bir web sayfasıdır.
@@ -28,4 +28,3 @@ mutfaklarına ait yemekleri kolayca görüntüleyebilir.
     ├── index.html       # Ana HTML dosyası
     ├── style.css        # CSS stilleri
     ├── app.js           # Filtreleme işlevleri için JS kodu
-    └── images/          # Yemek görselleri
